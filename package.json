@@ -1,0 +1,24 @@
+{
+  "name": "choose-large-file",
+  "version": "1.0.0",
+  "description": "A program to choose and save the largest file from multiple folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavelloH/choose-large-file.git"
+  },
+  "keywords": [
+    "file",
+    "large-file",
+    "choose"
+  ],
+  "author": "RavelloH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RavelloH/choose-large-file/issues"
+  },
+  "homepage": "https://github.com/RavelloH/choose-large-file#readme"
+}
